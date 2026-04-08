@@ -31,13 +31,12 @@ It demonstrates a complete machine learning workflow including data preprocessin
 ## 📊 Results
 
 ### Area vs Price
-[Drop image here]
+<img width="712" height="522" alt="image" src="https://github.com/user-attachments/assets/abe25f66-04bf-4812-bc09-f1529f7060ee" />
+
 
 ### Actual vs Predicted
-[Drop image here]
+<img width="662" height="493" alt="image" src="https://github.com/user-attachments/assets/efd9285d-0ef6-49ec-bae7-72c2e7938ff3" />
 
-### Residual Plot
-[Drop image here]
 
 These help in understanding model performance and prediction errors.
 
